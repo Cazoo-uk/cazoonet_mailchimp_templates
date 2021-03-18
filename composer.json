@@ -1,0 +1,17 @@
+{
+    "name": "cazoo/email_template",
+    "description": "Library for generating email templates",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "Grant Pearce",
+        "email": "grant.pearce@cazoo.co.uk"
+    }],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Cazoo\\EmailTemplate\\": "src"
+        }
+    }
+}
